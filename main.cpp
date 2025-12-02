@@ -138,3 +138,24 @@ using namespace std;
 // }
 
 
+//problem 10
+// void removespace(char *ptr,int d) {
+//     for (int i=0;i<d;i++) {
+//         if (*(ptr+i)!=' ') {
+//             cout<<*(ptr+i);
+//         }
+//         else {
+//             continue;
+//         }
+//     }
+//
+// }
+// int main() {
+//     string s;
+//     cin >> s;
+//     char *ptr=&s[0];
+//     int d=sizeof(s);
+//     removespace(ptr,d);
+//     return 0;
+// }
+
