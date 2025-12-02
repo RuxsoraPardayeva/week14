@@ -6,6 +6,7 @@ using namespace std;
 //     *ptra=*ptrb;
 //     *ptrb=*ptrc;
 //     *ptrc=temp;
+
 // }
 // int main() {
 //     int a;
